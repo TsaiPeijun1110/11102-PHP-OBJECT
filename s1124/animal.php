@@ -21,7 +21,7 @@ class Cat extends Animal implements bark{
 }
 
 $dog=new Dog;
-$cat=New cat;
+$cat=new cat;
 
 echo $dog->b();
 echo "<br>";
